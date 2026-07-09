@@ -1,0 +1,5 @@
+Modelo,Accuracy,F1-Score,ROC-AUC
+Gradient Boosting,0.8777,0.6216,0.8556
+Random Forest,0.8908,0.6154,0.9169
+XGBoost,0.8777,0.6,0.8809
+Regressão Logística,0.7904,0.4667,0.8484
