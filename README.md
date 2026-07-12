@@ -1,6 +1,6 @@
-# # 🍷 Tech Challenge 2 — Classificação da Qualidade de Vinhos com Machine Learning
+# #  Tech Challenge 2 — Classificação da Qualidade de Vinhos com Machine Learning
 
-## 📌 Objetivo
+##  Objetivo
 
 Este projeto tem como objetivo desenvolver um modelo de Machine Learning capaz de classificar vinhos em duas categorias:
 
@@ -11,7 +11,7 @@ Para isso, são utilizadas técnicas de análise exploratória, tratamento de da
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 O projeto utiliza o conjunto de dados **WineQT**.
 
@@ -23,7 +23,7 @@ WineQT.csv
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * Python
 * Pandas
@@ -36,7 +36,7 @@ WineQT.csv
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```text
 ├── Tech Challenge - 2.ipynb
@@ -47,7 +47,7 @@ WineQT.csv
 
 ---
 
-## 🔍 Etapas Desenvolvidas
+##  Etapas Desenvolvidas
 
 ### 1. Importação das Bibliotecas
 
@@ -68,7 +68,7 @@ A variável **quality** é transformada em uma variável binária:
 
 ---
 
-## 📊 Análise Exploratória (EDA)
+##  Análise Exploratória (EDA)
 
 Foram realizadas diversas análises para compreender o comportamento dos dados:
 
@@ -80,7 +80,7 @@ Foram realizadas diversas análises para compreender o comportamento dos dados:
 
 ---
 
-## 🧹 Limpeza dos Dados
+##  Limpeza dos Dados
 
 Durante o tratamento foram realizadas as seguintes etapas:
 
@@ -91,7 +91,7 @@ Durante o tratamento foram realizadas as seguintes etapas:
 
 ---
 
-## ⚙ Pré-processamento
+## Pré-processamento
 
 O pipeline de preparação contempla:
 
@@ -102,7 +102,7 @@ O pipeline de preparação contempla:
 
 ---
 
-## 🤖 Modelos Avaliados
+## Modelos Avaliados
 
 Foram treinados e comparados diferentes algoritmos de Machine Learning.
 
@@ -122,13 +122,13 @@ Também foram gerados:
 
 ---
 
-## 📈 Interpretabilidade
+##  Interpretabilidade
 
 Após a avaliação dos modelos, foi realizada a análise da importância das variáveis (**Feature Importance**) para identificar quais atributos possuem maior influência na classificação da qualidade dos vinhos.
 
 ---
 
-## 📄 Resultado Final
+##  Resultado Final
 
 Ao final da execução, o projeto:
 
@@ -139,7 +139,7 @@ Ao final da execução, o projeto:
 
 ---
 
-## ▶ Como Executar
+##  Como Executar
 
 1. Clone o repositório.
 
@@ -165,7 +165,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-lear
 
 ---
 
-## 📊 Fluxo do Projeto
+##  Fluxo do Projeto
 
 ```text
 Dataset
